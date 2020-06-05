@@ -3,3 +3,5 @@ Proyecto final de la clase Mineria de Datos. League of Legends match predictor u
 
 ![Alt Text](https://i.imgur.com/WEPQM41.png)
 
+![Alt Text](https://i.imgur.com/pdKLpqQ.png)
+
